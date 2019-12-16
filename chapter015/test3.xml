@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root msg="测试" name="test">
+    <head>
+        <uid>6taE112M48343D7QaP452o29</uid>
+        <fileType>Other</fileType>
+        <sum>100</sum>
+        <createTime>2018-11-28 15:10:02</createTime>
+    </head>
+    <datas>
+        <data>
+            <id>1531</id>
+            <osId>UNIX1002</osId>
+            <ip>192.168.1.3</ip>
+            <groupId>276</groupId>
+            <secrity>安全</secrity>
+            <securityManager>李四</securityManager>
+            <port>25</port>
+            <protocol>ssh</protocol>
+            <upPriv>insert</upPriv>
+        </data>
+    </datas>
+</root>
